@@ -96,6 +96,6 @@
   - Virtual DOM
   - 조건문과 반복문
 - MVVM 패턴
-- Vue.js LifeCycle
+- Life Cycle
 
 
