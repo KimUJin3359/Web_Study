@@ -85,4 +85,17 @@
   - 교집합(join)
   - 차집합(subquery)
 
-### [9. Project](https://github.com/KimUJin3359/Web_Project)
+>> [배운 것을 활용한 Project](https://github.com/KimUJin3359/Web_Project)
+
+### [9. Vue]
+- Vue.js
+  - Front-end 개발 방향
+  - Vue.js란?
+  - Data Binding(단방향, 양방향)
+- Vue.js의 기본 원리
+  - Virtual DOM
+  - 조건문과 반복문
+- MVVM 패턴
+- Vue.js LifeCycle
+
+
