@@ -92,15 +92,15 @@
   - Front-end 개발 방향
   - Vue.js란?
   - Data Binding(단방향, 양방향)
-- Vue.js의 기본 원리
+- [Vue.js의 기본 원리](https://github.com/KimUJin3359/Web_Vue/blob/master/README.md#vuejs%EC%9D%98-%EA%B8%B0%EB%B3%B8-%EC%9B%90%EB%A6%AC)
   - Virtual DOM
   - 조건문과 반복문
-- MVVM 패턴
-- Life Cycle
+- [MVVM 패턴](https://github.com/KimUJin3359/Web_Vue/blob/master/README.md#mvvm-%ED%8C%A8%ED%84%B4)
+- [Life Cycle](https://github.com/KimUJin3359/Web_Vue/blob/master/README.md#vuejs%EC%9D%98-life-cycle)
 
 ### [10. Vue(2)](https://github.com/KimUJin3359/Web_Vue-2-)
 - Vue CLI
 - Vue Router
 - props와 emit
-- Vuex
+- [Vuex](https://github.com/KimUJin3359/Web_Vue-2-/blob/master/README.md#vuex)
 - Vue-Bootstrap
