@@ -87,7 +87,7 @@
 
 >> [배운 것을 활용한 Project](https://github.com/KimUJin3359/Web_Project)
 
-### [9. Vue]
+### [9. Vue](https://github.com/KimUJin3359/Web_Vue/blob/master/README.md)
 - Vue.js
   - Front-end 개발 방향
   - Vue.js란?
