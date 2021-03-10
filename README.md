@@ -39,7 +39,10 @@
 - map, filter, reduce 함수
 - [정리](https://github.com/KimUJin3359/Web_Array_Traversal_Method#%EC%B4%9D-%EC%A0%95%EB%A6%AC)
   - sort는 원본 배열을 수정, '첫번째 **문자**부터' 기준
-  - var : **변수 호이스팅 발생**, const, let : 변수 호이스팅이 **발생하지 않는 것처럼 동작**
+  
+  | var | const, let | 
+  | --- | --- |
+  |**변수 호이스팅 발생** | 변수 호이스팅이 **발생하지 않는 것처럼 동작** |
 
 ### [3. Async Programming](https://github.com/KimUJin3359/Web_Async_Programming) 
 - **비동기와 Callback**
