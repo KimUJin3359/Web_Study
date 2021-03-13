@@ -88,7 +88,7 @@
   - 교집합(join)
   - 차집합(subquery)
 
-### [9. Vue](https://github.com/KimUJin3359/Web_Vue/blob/master/README.md)
+### [9. Vue](https://github.com/KimUJin3359/Web_Vue)
 - Vue.js
   - Front-end 개발 방향
   - Vue.js란?
