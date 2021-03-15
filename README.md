@@ -27,10 +27,15 @@
 >> - 게시판 페이지 만들기(javaScript with EJS)
 
 >> [PROJECT2](https://github.com/KimUJin3359/Web_Project-2-)
->> - NAVER API 사용(Frontend : Vue.js, Backend : Node.js)
+>> - NAVER API 사용(Frontend : Vue.js, Backend : Node.js, expresJs, sequelize, mySQL)
 
 >> [PROJECT3](https://github.com/KimUJin3359/Web_Project-3-)
 >> - 크롬 모멘텀 미러링(HTML, javaScript)
+
+>> [PROJECT4](https://github.com/KimUJin3359/Web_Project-4-)
+>> - 방 구하기 페이지 미러링(Fontend : Vue.js, Backend : Node.js, expressJs, sequelize, mySQL)
+>> - 현재 백엔드 서버 구현 완료
+>> - 프론트엔드 부분 진행중
 
 ### [1. String Parsing](https://github.com/KimUJin3359/Web_StringParsing)
 - **전부 중요**
