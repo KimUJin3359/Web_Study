@@ -23,6 +23,15 @@
   - Context 생성 후 함수가 실행, 변수들은 변수 객체안에서 값을 찾고 없다면 Scope chain을 따라 올라가며 찾음
   - 함수 실행이 종료되면 Context는 사라짐
 
+>> [PROJECT1](https://github.com/KimUJin3359/Web_Project-1-)
+>> - 게시판 페이지 만들기(javaScript with EJS)
+
+>> [PROJECT2](https://github.com/KimUJin3359/Web_Project-2-)
+>> - NAVER API 사용(Frontend : Vue.js, Backend : Node.js)
+
+>> [PROJECT3](https://github.com/KimUJin3359/Web_Project-3-)
+>> - 크롬 모멘텀 미러링(HTML, javaScript)
+
 ### [1. String Parsing](https://github.com/KimUJin3359/Web_StringParsing)
 - **전부 중요**
 - [Parsing이란?](https://github.com/KimUJin3359/Web_StringParsing#parsing)
