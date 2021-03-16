@@ -119,3 +119,10 @@
 - props와 emit
 - [Vuex](https://github.com/KimUJin3359/Web_Vue-2-/blob/master/README.md#vuex)
 - Vue-Bootstrap
+
+### [11. TypeScript](https://github.com/KimUJin3359/Web_TypeScript)
+- Type Script
+  - TypeScript의 이해
+  - TypeScript의 특징
+  - 설치방법
+  - JavaScript와 TypeScript의 데이터 타입
