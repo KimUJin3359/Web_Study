@@ -141,10 +141,10 @@
   3) 버킷 클릭하여 접근
   4) 권한 -> 버킷 정책 영역 -> 편집
   5) 정책 생성기
-    - policy :S3 Bucket Policy
-    - Pricipal : *
-    - action : get Object
-    - ARN : s3:::[버킷이름]/*
+     - policy :S3 Bucket Policy
+     - Pricipal : *
+     - action : get Object
+     - ARN : s3:::[버킷이름]/*
   6) 정책 붙여넣기 및 변경사항 저장
   7) 속성 -> 정책 웹 사이트 호스팅 -> 편집
   8) 객체 -> 업로드 -> 폴더추가
