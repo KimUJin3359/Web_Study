@@ -126,3 +126,37 @@
   - TypeScript의 특징
   - 설치방법
   - JavaScript와 TypeScript의 데이터 타입
+
+### 12. AWS(Amazon Web Services)
+- Authentication Factor
+  - 지식기반 Factor : Password
+  - 소유기반 Factor : OPT, 키파일, 공동인증서, SMS
+  - 속성기반 Factor : 지문인식
+- IAM(Identity and Access Manager)
+  - ID 개별적으로 서비스 이용 권한을 부여하여 관리하는 방법
+  - 해당 ID에 최소한의 권한을 부여
+- S3 활용
+  1) 버킷 만들기
+  2) 모든 퍼블릭 액세스 차단(해제) 및 퍼블릭 상태가 될 수 있음 체크
+  3) 버킷 클릭하여 접근
+  4) 권한 -> 버킷 정책 영역 -> 편집
+  5) 정책 생성기
+    - policy :S3 Bucket Policy
+    - Pricipal : *
+    - action : get Object
+    - ARN : s3:::[버킷이름]/*
+  6) 정책 붙여넣기 및 변경사항 저장
+  7) 속성 -> 정책 웹 사이트 호스팅 -> 편집
+  8) 객체 -> 업로드 -> 폴더추가
+  9) 엔트리 포인트로 접근
+- EC2(Elastic Compute Cloud) 활용
+  - 가상 컴퓨터
+  - 컴퓨터 1대 = 인스턴스
+  - 볼륨 : 저장장치
+  - AMI : 가상머신 이미지 파일
+  - 스냅샷 : 저장장치 전체 Hard Copy(백업용)
+  1) 인스턴스 생성 
+  2) 보안그룹 -> 모든 트래픽 0.0.0.0/0
+  3) 키 페어 생성 -> 키 페어 다운로드
+  4) EC2 생성
+  5) MobaXterm, Putty 등을 활용해 터미널 접속 
