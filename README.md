@@ -5,6 +5,8 @@
 #### Overview는 Link연결 대신 직접 정리
 #### 참고할만한 Project들은 사진과 함께 첨부
 
+---
+
 ### Overview
 - 호이스팅이란?
   >> 현재 실행하고 있는 함수/변수가 존재하지 않을 경우, 함수 안에 있는 선언들을 모두 끌어올려서 해당 함수 유효 범위의 최상단에 선언하는 것(유효 범위 : 블록)
@@ -37,6 +39,8 @@
 >> - 현재 백엔드 서버 구현 완료
 >> - 프론트엔드 부분 진행중
 
+---
+
 ### [1. String Parsing](https://github.com/KimUJin3359/Web_StringParsing)
 - **전부 중요**
 - [Parsing이란?](https://github.com/KimUJin3359/Web_StringParsing#parsing)
@@ -45,6 +49,8 @@
 - [Prototype](https://github.com/KimUJin3359/Web_StringParsing#prototype)
 - [생성자(Constructor)](https://github.com/KimUJin3359/Web_StringParsing#%EC%83%9D%EC%84%B1%EC%9E%90constructor)
 - [Class](https://github.com/KimUJin3359/Web_StringParsing#class)
+
+---
 
 ### [2. Array Traversal Method](https://github.com/KimUJin3359/Web_Array_Traversal_Method)
 - Arrow Function
@@ -58,6 +64,8 @@
   | --- | --- |
   |**변수 호이스팅 발생** | 변수 호이스팅이 **발생하지 않는 것처럼 동작** |
 
+---
+
 ### [3. Async Programming](https://github.com/KimUJin3359/Web_Async_Programming) 
 - **비동기와 Callback**
 - Thread, Async의 차이
@@ -69,6 +77,8 @@
   - HTTP Response Status Code
   - fetch API
   - axios
+
+---
 
 ### [4. Node.js](https://github.com/KimUJin3359/Web_NODE_JS)
 - **Node.js**란?
@@ -91,6 +101,8 @@
 - **크롤링**이란?
 - Puppeteer
 
+---
+
 ### [8. Database](https://github.com/KimUJin3359/Web_Database)
 - DB, DBMS란?
 - DBMS 계정 생성 및 접속
@@ -101,6 +113,8 @@
   - 합집합(union)
   - 교집합(join)
   - 차집합(subquery)
+
+---
 
 ### [9. Vue](https://github.com/KimUJin3359/Web_Vue)
 - Vue.js
@@ -120,12 +134,16 @@
 - [Vuex](https://github.com/KimUJin3359/Web_Vue-2-/blob/master/README.md#vuex)
 - Vue-Bootstrap
 
+---
+
 ### [11. TypeScript](https://github.com/KimUJin3359/Web_TypeScript)
 - Type Script
   - TypeScript의 이해
   - TypeScript의 특징
   - 설치방법
   - JavaScript와 TypeScript의 데이터 타입
+
+---
 
 ### 12. AWS(Amazon Web Services)
 - Authentication Factor
@@ -160,3 +178,5 @@
   3) 키 페어 생성 -> 키 페어 다운로드
   4) EC2 생성
   5) MobaXterm, Putty 등을 활용해 터미널 접속 
+
+---
