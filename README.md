@@ -2,12 +2,10 @@
 
 #### 각 Title에 연결된 Repository의 개요 정리
 #### 각 Repository 안에는 해당 내용들의 설명과 실습 예제가 존재
-#### Overview는 Link연결 대신 직접 정리
-#### 참고할만한 Project들은 사진과 함께 첨부
 
 ---
 
-### 
+### Project
 >> [PROJECT1](https://github.com/KimUJin3359/Web_Project-1-)
 >> - 게시판 페이지 만들기(javaScript with EJS)
 
