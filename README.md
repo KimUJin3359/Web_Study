@@ -22,6 +22,72 @@
 
 ---
 
+### block
+1. 자동 줄바꿈
+
+2. 넓이값 미 지정시, 부모 요소 넓이값을 100% 상속받음
+
+3. 넓이와 높이값 지정 가능
+
+4. 블록요소 태그는 블록요소와 인라인 요소를 모두 감쌀 수 있음
+
+5. 단 p태그와 h1 태그시리즈는  서식 관련된 요소이기 떄문에 내부에 div나 여타 블록요소를 자식으로 넣을 수 없음
+
+
+### inline-block
+1. 자동 줄바꿈되지 않고 옆으로 나열됨(인라인 속성)
+
+2. 넓이와 높이값 모두 인라인 태그로 감싼 텍스트 자체의 크기로 설정됨(인라인 속성)
+
+3. 넓이와 높이값 지정 가능(블록 속성)
+
+4. 인라인블록요소 태그는 블록요소와 인라인요소를 모두 감쌀 수 있음(블록속성)
+
+### inline
+- 자동 줄바꿈이 되지 않고 옆으로 나열함
+- 넓이, 높이값 모두 인라인 태그로 감싼 텍스트 자체의 크기로 설정됨
+- 넓이와 높이값 지정 불가
+- 인라인요소 태그는 인라인 요소만 감 쌀 수 있음
+
+### java-script
+- == -> type이 같다.
+- === -> 완전히 일치
+- !== -> 같지 않다
+
+### 중앙 정렬
+- inline 정렬은 text-align:center;
+- 블록 요소 정렬
+```
+1) 
+margin: 0px auto;
+
+2) 
+margin-left: auto;
+margin-right: auto;
+
+3)
+position: absolute;
+left: 50%;
+top: 50%;
+transform: translate(-50%, -50%);
+
+4)
+align-items: center;
+justify-content: center;
+```
+
+### event
+- 캡쳐링 = 내려가는 것
+- 버블링 = 올라가는 것(default)
+
+### vh, vw
+- view height, view width
+```
+max-width:40vh; -> (view width의 40% 만큼만 가지겠다)
+```
+
+---
+
 ### [1. String Parsing](https://github.com/KimUJin3359/Web_StringParsing)
 - **전부 중요**
 - [Parsing이란?](https://github.com/KimUJin3359/Web_StringParsing#parsing)
