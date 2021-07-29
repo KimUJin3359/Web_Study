@@ -42,8 +42,24 @@
 - 인라인요소 태그는 인라인 요소만 감 쌀 수 있음
 
 ### 중앙 정렬
-- inline 정렬 
-  - text-align:center;
+- 수직 정렬
+```
+<!-- 1번 -->
+  padding: 70px 0;
+  
+<!-- 2번 -->
+  line-height: 200px;
+  height: 200px;
+<!-- 2번(라인 여러 줄 있을 때) --> 
+  line-height: 1.5;
+  display: inline-block;
+  vertical-align: middle;
+```
+- inline 정렬
+```
+<!-- 1번 --> 
+  text-align:center;
+```
 - 블록 요소 정렬
 ```
 <!-- 1번 -->
